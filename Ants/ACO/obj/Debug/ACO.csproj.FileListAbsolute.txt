@@ -1,0 +1,16 @@
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\bin\Debug\ACO.exe.config
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\bin\Debug\ACO.exe
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\bin\Debug\ACO.pdb
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\obj\Debug\ACO.csproj.AssemblyReference.cache
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\obj\Debug\ACO.csproj.SuggestedBindingRedirects.cache
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\obj\Debug\ACO.csproj.CoreCompileInputs.cache
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\obj\Debug\ACO.exe
+C:\Users\diman\OneDrive\Рабочий стол\ACO-master\ACO\obj\Debug\ACO.pdb
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\bin\Debug\ACO.exe.config
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\bin\Debug\ACO.exe
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\bin\Debug\ACO.pdb
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\obj\Debug\ACO.csproj.AssemblyReference.cache
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\obj\Debug\ACO.csproj.SuggestedBindingRedirects.cache
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\obj\Debug\ACO.csproj.CoreCompileInputs.cache
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\obj\Debug\ACO.exe
+C:\Users\diman\OneDrive\Рабочий стол\Ants\ACO\obj\Debug\ACO.pdb
